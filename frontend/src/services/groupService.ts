@@ -1,7 +1,7 @@
+import { Group, GroupMember, Permission } from '../types';
 import api from './axios';
-import { Group, Role, GroupMember, JoinRequest, Permission } from '../types';
 
-const API_URL = '/groups';
+const API_URL = `/groups`;
 
 export const groupService = {
   // Group operations
