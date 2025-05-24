@@ -62,7 +62,7 @@ A robust system for managing groups with customizable role-based access control 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/nakulkalra/Delegated-Group-Management-System.git
+clone the repo
 cd delegated-group-management-system
 ```
 
